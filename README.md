@@ -59,7 +59,7 @@ pnpm add hayavo-meet-client
 The minified UMD build can be loaded directly from jsDelivr.
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.0/dist/hayavo-meet-client.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.2/dist/hayavo-meet-client.umd.min.js"></script>
 ```
 
 For production applications, it is recommended to pin the SDK version instead of using a floating version.
@@ -977,7 +977,7 @@ RTM_CONNECTION_CLOSED
     Leave
   </button>
 
-  <script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.0/dist/hayavo-meet-client.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.2/dist/hayavo-meet-client.umd.min.js"></script>
 
   <script>
 
@@ -1212,7 +1212,7 @@ hayavo-meet-client
 Current version:
 
 ```text
-1.1.0
+1.1.2
 ```
 
 License:
@@ -1245,13 +1245,13 @@ git clone https://github.com/hayavo/hayavo-meet-client.git
 The recommended browser production build is:
 
 ```text
-https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.0/dist/hayavo-meet-client.umd.min.js
+https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.2/dist/hayavo-meet-client.umd.min.js
 ```
 
 Example:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.0/dist/hayavo-meet-client.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hayavo-meet-client@1.1.2/dist/hayavo-meet-client.umd.min.js"></script>
 ```
 
 ---

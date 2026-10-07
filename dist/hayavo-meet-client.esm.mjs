@@ -39579,5 +39579,4 @@ var HayavoMeet = /*#__PURE__*/function () {
   }]);
 }();
 
-export { ConnectionError, HayavoMeetError, MediaError, ScreenShareError, TokenError, HayavoMeet as default };
-//# sourceMappingURL=hayavo-meet-client.esm.js.map
+export { ConnectionError, HayavoMeet, HayavoMeetError, MediaError, ScreenShareError, TokenError, HayavoMeet as default };
